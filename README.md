@@ -1,6 +1,6 @@
 - Hi, I’m @AntyFairy
 - I’m interested in coding, playing videogames and chess
-- I’m currently learning Python
+- I’m currently learning Python and GDScript
 - I’m looking to collaborate on any fun project
 - Discord : *Starkiller._.*
 - Pronouns: he/him
